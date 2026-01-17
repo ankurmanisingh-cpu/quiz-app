@@ -32,5 +32,6 @@ quiz-app/
 Ankur Mani Singh
 ## Live Demo
 https://melodic-frangipane-fab54e.netlify.app/
+
 ##GitHub Repository
 https://github.com/ankurmanisingh-cpu/quiz-app
