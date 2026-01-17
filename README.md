@@ -26,7 +26,11 @@ quiz-app/
 2. Open `index.html` in any web browser
 3. Start the quiz
 
+
+
 ## Author
 Ankur Mani Singh
 ## Live Demo
 https://melodic-frangipane-fab54e.netlify.app/
+##GitHub Repository
+https://github.com/ankurmanisingh-cpu/quiz-app
