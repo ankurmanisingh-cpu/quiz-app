@@ -28,3 +28,5 @@ quiz-app/
 
 ## Author
 Ankur Mani Singh
+## Live Demo
+https://melodic-frangipane-fab54e.netlify.app/
